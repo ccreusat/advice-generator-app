@@ -29,7 +29,6 @@
             button.classList.remove("disabled");
             button.disabled = false;
         }, 2000);
-       
     }
 </script>
 
